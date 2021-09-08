@@ -14,14 +14,14 @@ module.exports = {
     ],
   ],
   themeConfig: {
-    logo: 'home.png',
+    logo: '/home.png',
     nav: [
       {
         text: '首页',
         link: '/',
       },
       {
-        text: '库',
+        text: '收藏夹',
         link: '/repository/',
       },
       /*
