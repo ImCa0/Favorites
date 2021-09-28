@@ -16,9 +16,10 @@ sidebar: auto
 - [**VuePress**](https://github.com/vuejs/vuepress) 本网站就是基于它实现的，简单方便的静态网站生成器
 - [**vue-element-admin**](https://github.com/PanJiaChen/vue-element-admin) 一个基于 vue 和 element-ui 的后台前端解决方案
 
-## Css && 动画
+## CSS && 动画
 
 - [**Element UI**](https://element.eleme.cn/#/zh-CN) 一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库
+- [**Loaders.css**](https://github.com/ConnorAtherton/loaders.css) 一套完全基于 CSS 的载入动画集合
 - [**Tailwind CSS**](https://www.tailwindcss.cn/) 一个功能类优先的 CSS 框架，集成了诸如 flex, pt-4, text-center 和 rotate-90 这样的类
 
 ## 文档 && 博客
@@ -26,6 +27,7 @@ sidebar: auto
 - [**Hexo**](https://github.com/hexojs/hexo) 一个快速、简洁且高效的博客框架
 - [**Hugo**](https://github.com/gohugoio/hugo) 一个基于 Go 语言的静态网页生成工具，主题资源丰富
 - [**Typecho**](https://github.com/typecho/typecho) 一个基于 PHP 的博客构建工具
+- [**Valine**](https://github.com/xCss/Valine) 一款快速、简洁且高效的无后端评论系统
 - [**VuePress**](https://github.com/vuejs/vuepress) vue 官方出品的文档工具
 - [**vuepress-theme-reco**](https://github.com/vuepress-reco/vuepress-theme-reco) 一款简洁而优雅的 vuepress 博客 & 文档主题
 - [**WordPress**](https://github.com/WordPress/WordPress) 一款能让您建立出色网站、博客或应用程序的开源软件，元老级选手
