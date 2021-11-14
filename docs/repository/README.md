@@ -14,6 +14,7 @@ sidebar: auto
 - [**ECharts**](https://echarts.apache.org/zh/index.html) 一个基于 JavaScript 的开源可视化图表库，百度出品
 - [**fullPage.js**](https://alvarotrigo.com/fullPage/zh/) 一个用于创建全屏滚动网站的库
 - [**Loaders.css**](https://connoratherton.com/loaders) 一套完全基于 CSS 的载入动画集合
+- [**trigger**](https://github.com/triggerjs/trigger) 一个基于 HTML 属性和 CSS 变量的实现类似苹果官网滚动触发动画的库
 
 ### 框架
 
@@ -38,6 +39,10 @@ sidebar: auto
 - [**VuePress**](https://vuepress.vuejs.org/zh/) vue 官方出品的文档工具，本网站就是基于它实现的
 - [**vuepress-theme-reco**](https://vuepress-theme-reco.recoluan.com/) 一款简洁而优雅的 vuepress 博客 & 文档主题
 - [**WordPress**](https://cn.wordpress.org/) 一款能让您建立出色网站、博客或应用程序的开源软件，元老级选手
+
+### 工具
+
+- [**Spacing.js**](https://spacingjs.com/) 一个用于测量网页元素间距的实用工具
 
 ## 后端
 
