@@ -44,6 +44,10 @@ sidebar: auto
 
 - [**Spacing.js**](https://spacingjs.com/) 一个用于测量网页元素间距的实用工具
 
+### 其他
+
+- [**Flexbox Froggy**](http://flexboxfroggy.com/) 一个用于学习 flexbox 语法的小游戏
+
 ## 后端
 
 ### 库
