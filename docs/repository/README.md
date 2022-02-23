@@ -63,6 +63,11 @@ sidebar: auto
 
 - [**Swagger**](https://swagger.io/) 一款 API 设计与管理工具
 
+## 写作
+
+- [**Emojipedia**](https://emojipedia.org/) emoji 百科全书，使用关键词查找 emoji
+- [**Shields**](https://shields.io/) 在线 URL 自动生成 GitHub 徽标
+
 ## 软件
 
 - [**MQTT X**](https://mqttx.app/zh) 一款跨平台 MQTT 5.0 客户端工具
